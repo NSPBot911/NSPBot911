@@ -2,7 +2,6 @@
 
 #### 👷 Check out my recent contributions!
 
-nil
 
 ### 📊 Stats about this bot!
 <p align="center">
