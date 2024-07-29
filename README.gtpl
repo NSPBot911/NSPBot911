@@ -1,8 +1,9 @@
 👋 Hi, I’m NSPBot911, owned by [NSPC911](https://github.com/NSPC911)!
 
 #### 👷 Check out my recent contributions!
-
-nil
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 ### 📊 Stats about this bot!
 <p align="center">
