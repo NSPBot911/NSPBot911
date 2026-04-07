@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (3 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (5 days ago)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (5 days ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (4 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (6 days ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (6 days ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (6 days ago)
 
 ### 📊 Stats about this bot!
 <p align="center">
